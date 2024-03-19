@@ -3,7 +3,7 @@
 
   <remote  name="diablo"
            fetch="https://github.com/ProjectDiablo"
-           revision="14" />
+           revision="14-initial" />
 
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
